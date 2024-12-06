@@ -66490,7 +66490,7 @@ return B.va},
 oK(a){var s=0,r=A.Z(t.z)
 var $async$oK=A.a_(function(b,c){if(b===1)return A.W(c,r)
 while(true)switch(s){case 0:s=2
-return A.T(A.dO(A.dh("https://flutterdashweb.s3.ap-south-1.amazonaws.com/Resume+of+Navaneeth+Krishna+(+Flutter+Developer+).pdf",0,null)),$async$oK)
+return A.T(A.dO(A.dh("https://navaneethkrishnaindeed.github.io/resume/",0,null)),$async$oK)
 case 2:return A.X(null,r)}})
 return A.Y($async$oK,r)}}
 A.Td.prototype={}
